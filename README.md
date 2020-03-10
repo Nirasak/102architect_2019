@@ -12,11 +12,11 @@ You need to develop a program to compute the coordinates of a point after severa
 make it nice and clean, you chose to use homogeneous coordinates. O being the origin of both axis, here
 are the transformations to be implemented:
 
-• Translation,
-• Scaling,
-• Rotation centered at O,
-• Reflection over any axis that passes through O,
-• Any combination of the previous transformations.
+• Translation,  
+• Scaling,  
+• Rotation centered at O,  
+• Reflection over any axis that passes through O,  
+• Any combination of the previous transformations.  
 
 USAGE
     ./102architect x y transfo1 arg11 [arg12] [transfo2 arg12 [arg22]] ...
