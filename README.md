@@ -18,7 +18,7 @@ are the transformations to be implemented:
 • Reflection over any axis that passes through O,  
 • Any combination of the previous transformations.  
 
-USAGE
+USAGE  
     ./102architect x y transfo1 arg11 [arg12] [transfo2 arg12 [arg22]] ...
 
 DESCRIPTION
